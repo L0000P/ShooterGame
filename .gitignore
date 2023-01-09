@@ -74,8 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 #HoloLens Folder
-<<<<<<< HEAD
 Platforms/*
-=======
-Platform/*
->>>>>>> 742f5fe047d2fcbb6852b1afe602595050e1c782
