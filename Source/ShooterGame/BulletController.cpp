@@ -37,7 +37,7 @@ void ABulletController::Tick(float DeltaTime)
 	SetActorLocation(NewLocation);
 
 	//Destroy Bullet
-	if (NewLocation.X > 190.0f) {
+	if (NewLocation.X > 300.0f) {
 		this->Destroy();
 	}
 }
